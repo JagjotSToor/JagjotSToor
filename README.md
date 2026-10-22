@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Jagjot Singh
 
-<!--
-**JagjotSToor/JagjotSToor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BCA student at LPU · Software development · Cybersecurity enthusiast**
 
-Here are some ideas to get you started:
+I'm studying for a Bachelor of Computer Applications at Lovely Professional University. My interests include software development, Android applications, and cybersecurity. I learn by building projects and exploring how software works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+
+### [AURALIS — Android Music App](https://github.com/JagjotSToor/auralis-music-app-v0.3)
+
+A Kotlin-based Android music app with a music library, playback controls, playlists, favorites, and a customizable listening experience.
+
+- **Personalization:** multiple themes, custom accent colors, and configurable home layouts.
+- **Listening experience:** queue controls, search, and notification playback controls.
+- **Project tools:** Kotlin, Android Studio, Gradle, Room, and GitHub Actions for APK builds.
+
+[Explore the source code →](https://github.com/JagjotSToor/auralis-music-app-v0.3)
+
+## Areas of interest
+
+- Software development and practical problem solving
+- Android app development with Kotlin
+- Cybersecurity and secure software development
+
+---
+
+Explore my repositories to follow what I'm building and learning.
